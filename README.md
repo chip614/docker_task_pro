@@ -35,4 +35,5 @@ services:
       retries: 5
     restart: always
 
+  3. Создание образа и запуск контейнеров:sudo docker-compose up
 
